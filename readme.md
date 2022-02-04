@@ -1,9 +1,9 @@
 # <h1 align="center">Java - Exercício</h1>
-<h3 align="center">CRUD utilizando backend em Node.js e frontend em Angular</h3>
+<h3 align="center">Cálculo da área de um triângulo em Java</h3>
 
 ---
 
-## Calcular a área de um triângulo. 💡
+## O que foi pedido 💡
 
 <p>
   Criar uma classe Triângulo com os atributos: base e altura.<br/>
